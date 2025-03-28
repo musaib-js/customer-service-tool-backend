@@ -30,3 +30,4 @@ Given the timeframe of 24 hours and the fact that AI tools can be leveraged to b
 
 1. If low code platforms were available, a lot of manual work could be reduced. For e.g the UI that we could earlier build using v0 and lovable, can now be built in less than half the time using low code UI building tools like Glide Apps or Bubble. 
 2. Rather than using a database, we can integrate Airtable or Google sheets again saving a ton of time. 
+3. Also, in MVPs are mostly to check if the product would work or not. So, if the business logic is connected to a streamlit app, it can be verified there as well. A few lines of code, and donnne.
