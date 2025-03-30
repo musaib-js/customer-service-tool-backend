@@ -8,7 +8,9 @@
 <li> View dispute history and Track Resolution </li>
 </ul>
 
-UI Link: https://app.appsmith.com/app/loan-eligibility-checker/page1-67e9097353587352f0853da5 <br>
+UI Link: https://app.appsmith.com/app/loan-eligibility-checker/page1-67e9097353587352f0853da5 <br><br>
+<strong> The Backend is Hosted on a free Render instance, so the API might take a little longer than expected to respond </strong> <br>
+<br>
 Demo Video: https://www.loom.com/share/7bbcd693fd7548c991e68d1e39b7ccf0
 
 ## How to build the MVP
